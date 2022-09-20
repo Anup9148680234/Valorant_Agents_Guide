@@ -6,4 +6,4 @@ Html viewer or a browser.
 Live server extension for VSCode
 
 Instructions:
-For VScode users open this full folder in VScode and open a .html file with live server extension.
+For VScode users open this full folder in VScode and open a main.html file with live server extension.
