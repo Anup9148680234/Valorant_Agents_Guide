@@ -1,9 +1,4 @@
 # Valorant_Agents_Guide
-A Semi-Modern Informative static webpage created using HTML and CSS. Alternative to the use of Router in Html. 
 
-Requirements: 
-Html viewer or a browser.
-Live server extension for VSCode
+A Semi-Modern Informative static webpage created using `HTML` and `CSS`. Alternative to the use of Router in Html. 
 
-Instructions:
-For VScode users open this full folder in VScode and open a main.html file with live server extension.
